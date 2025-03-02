@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>BookAppoinments</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3464bfa8-07fb-44b1-8523-9b2ed6115093</testCaseGuid>
+</TestCaseEntity>
